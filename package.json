@@ -17,8 +17,6 @@
 	},
 	"dependencies": {
 
-		"coffee-script": "1.3.3",
-
 		"brunch": "1.3.4",
 
 		"javascript-brunch": "> 1.0 < 1.3",
