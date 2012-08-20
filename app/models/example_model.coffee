@@ -1,4 +1,4 @@
-Spine = require '../../node_modules/spine'
+Spine = window?.Spine or require 'spine'
 
 class ExampleModel extends Spine.Model
 	@configure 'ExampleModel'
